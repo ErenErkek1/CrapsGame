@@ -1,0 +1,3 @@
+C:/Users/erene/Desktop/Kodlama/LabKodlar/CrapsGame/cmake-build-debug/CMakeFiles/CrapsGame.dir
+C:/Users/erene/Desktop/Kodlama/LabKodlar/CrapsGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/erene/Desktop/Kodlama/LabKodlar/CrapsGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
